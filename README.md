@@ -80,5 +80,4 @@ This analysis reveals Amazon Prime’s content strategy as:
 - **Increase kids/family content** to improve household retention.
 - **Improve metadata completeness** (especially country and date_added).
 - **Consider regional original content** to compete in localized streaming markets.
-## License
-This project is for educational purposes. Dataset sourced from publicly available Amazon Prime listings.
+
